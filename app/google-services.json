@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527249639045",
+    "firebase_url": "https://sensores-android.firebaseio.com",
+    "project_id": "sensores-android",
+    "storage_bucket": "sensores-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527249639045:android:cdb94034c48104fb6dcbec",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527249639045-krrbm2d6rk2cgnsuiltgfu7ovkscvpl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "76772859e6fd6eb4c8d8d47a150bdbcca0ecba38"
+          }
+        },
+        {
+          "client_id": "527249639045-n84du4um90bd3i56e125q78ebf2a0bbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjaPzVJew3ZoWzjgm2-301spUkTc70LIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527249639045-n84du4um90bd3i56e125q78ebf2a0bbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
