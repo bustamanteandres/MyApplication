@@ -22,7 +22,6 @@
             android:label="Registro"
             android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -34,7 +33,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity"
-            android:label="MainActivity"
+            android:label="Inicio"
             android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
