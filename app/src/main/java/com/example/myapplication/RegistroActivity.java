@@ -134,6 +134,12 @@ public class RegistroActivity extends AppCompatActivity{
     }
 
     @Override
+    protected void onStop(){
+        super.onStop();
+        progressDialog.dismiss();
+    }
+
+    @Override
     protected void onDestroy(){
         super.onDestroy();
         progressDialog.dismiss();

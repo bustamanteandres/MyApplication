@@ -197,6 +197,12 @@ public class SensoresActivity extends AppCompatActivity implements SensorEventLi
     }
 
     @Override
+    protected void onStop(){
+        super.onStop();
+        pararSensores();
+    }
+
+    @Override
     protected void onDestroy(){
         super.onDestroy();
         pararSensores();
